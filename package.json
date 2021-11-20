@@ -1,0 +1,14 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "test for npm package",
+  "main": "index.js",
+  "repository": "https://github.com/bozkayaSalihX/react-test-utils.git",
+  "author": "SalihBozkayaX <salihbozkaya@saveas.com.tr>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "@types/express": "^4.17.13",
+    "express": "^4.17.1"
+  }
+}
